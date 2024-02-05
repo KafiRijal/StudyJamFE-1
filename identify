@@ -1,0 +1,25 @@
+html
+- Wrapper
+    - Gambar diri
+    - Nama lengkap
+    - negara dan kota asal
+    - Pekerjaan
+    - Tempat link github
+    - Tempat link frontend mentor
+    - Tempat link linkedin
+    - Tempat link twitter
+    - Tempat link instagram
+
+css
+- .container
+    - display
+    - background color
+    - item center
+- .image
+    - membentuk lingkaran
+- .name, .location, .ocupation
+    - color
+    - font
+- .button
+    - background color
+    - color
